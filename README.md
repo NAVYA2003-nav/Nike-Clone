@@ -1,3 +1,8 @@
-# Nike-Clone## Output Screenshot
+# Nike-Clone
 
-![Home Page](hm1.png)
+## Output Screenshot
+
+![Home Page](screenshots/hm1.png)
+
+
+
