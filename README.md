@@ -2,7 +2,7 @@
 
 ## Output Screenshot
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshot/home.png)
 
 
 
